@@ -12,3 +12,6 @@ I made a batch script that updates Arc Browser on Windows 10 that was only suppo
 * 8- Copies the backup from the temporary location to its original place.
 * 9- Cleans the temporary files.
 * 10- Timeouts 10 seconds to prevent any bugs then quit.
+# How to get the MSIX file
+
+[![ArcForWin10Updater](https://img.youtube.com/vi/cqVhn-iFy-4/0.jpg)](https://www.youtube.com/watch?v=cqVhn-iFy-4)
